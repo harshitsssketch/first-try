@@ -1,3 +1,3 @@
 # first-try
-its my first git repo
-author - Harshit Jain
+its my first git repo.
+Author - Harshit Jain
